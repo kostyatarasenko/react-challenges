@@ -1,3 +1,3 @@
-# react-tasks
+# React Challenges
 
 - Implement custom useState hook
